@@ -17,7 +17,7 @@ Placebo variance: 474.22222222222223 \
 Caffine variance: 251.55555555555557
 
 #### Pooled Variance
-Pooled variance: 45.361111111111114 \
+Pooled variance: 45.361111111111114
 
 # Results
 T Value: 1.9947880650265368 \
@@ -26,7 +26,7 @@ P Value: 0.0609
 
     
 # Discussion (Plain English)
-Basically we went into this experiment saying that in order to accept that caffine affected metabolism, we needed to be at least 95% confident. But when we ran the tests, we found that we were around 94% confident. So we're close, but I wouldn't draw any conclusions just yet. In order to essentially, "break the tie" here, we just need to run a few more tests. 
+Basically we went into this experiment saying that in order to accept that caffine affected metabolism, we needed to be at least 95% confident. But when we ran the tests, we found that we were around 94% confident. So we're close, but I wouldn't draw any conclusions just yet. In order to essentially, "break the tie" here, we can go get a bigger sample size and run a few more tests.
 
 # Discussion (Using Scientific Terminology)
 From this data we can conclude that caffine does not have
